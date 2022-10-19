@@ -1,0 +1,13 @@
+.ref-original-price {
+  color: var(--bs-white);
+}
+
+.ref-price.ref-on-sale {
+  color: var(--bs-white);
+}
+
+:root {
+  --ref-success: #20c997;
+  --ref-body-color: #fff;
+}
+
